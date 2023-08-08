@@ -1,0 +1,17 @@
+.paginacion{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.boton{
+    display: flex;
+    background-color: rgb(152, 152, 205);
+    border-radius: 10px;
+    border: 1px;
+    border: solid;
+
+}
+.boton :hover{
+    background-color: black;
+
+}

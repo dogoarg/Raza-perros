@@ -1,0 +1,37 @@
+.detail{
+    display: flex;
+    justify-content: center;
+}
+.caracteristica{
+    /* display: flex; */
+    justify-content: center;
+    display: flex;
+    font-size: 18px;
+
+}
+
+.nombre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nombre1{
+    display: flex;
+    justify-content: center;
+}
+
+.caracteristicas1{
+    /* display: flex; */
+    /* justify-content: center; */
+    border-radius: 10px;
+    color: black;
+    border: solid;
+    height: 200px;
+  width: 660px;
+  margin-bottom: 20px;
+  margin-right: 50px;
+  margin-top: 20px;
+  align-items: center;
+  border-width: 10px;
+  background-color: aliceblue;
+}

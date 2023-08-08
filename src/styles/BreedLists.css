@@ -1,0 +1,46 @@
+
+ul {
+    list-style: none;
+    column-count: 5;
+}
+
+
+.card{
+    display: flex;
+    margin-bottom: 20px; 
+	padding: 40px;
+    width: 100%;
+    flex-wrap: wrap;
+    flex-basis: calc(50% - 10px);  
+    justify-content: space-between; 
+    cursor: pointer;
+
+}
+
+.imagenes{
+    display: flex;
+    flex-flow: row wrap;
+	align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    height: 200px;
+    width: auto;
+    margin: 10px; 
+    border: 10px;
+    border: solid;
+    border-radius: 10px;
+}
+
+.lista2{
+    display: flex;
+    flex-flow: row wrap;
+	align-items: center;
+    justify-content: space-around;
+     flex-direction: column; 
+    margin-bottom: 10px;
+    
+}
+
+.descripcion{
+    color: aliceblue;
+}
